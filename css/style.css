@@ -593,6 +593,45 @@ main p{
 	font-size: 3rem;
 	
 }
+
+
+	.description{
+		height: 45rem;
+		width:70rem;
+    	margin: 1rem;
+	
+	
+}
+	.description img{
+		width: 50rem;
+		height: 40rem;
+		left:1.5rem;
+		top:1.5rem;
+	
+}
+
+	.des{
+		font-size: 26px;
+		top:5rem;
+		left:1.5rem;
+		width: 50.5rem;
+}
+	.des2{
+		font-size: 26px;
+		top:7rem;
+		left:1.5rem;
+		width: 50.5rem;
+}
+
+	.bt1{
+ 		top: 15rem;
+ 		left: 55rem;	
+}
+
+	.bt2{
+		top:25rem;
+		left:55rem;
+}
 	.mail{
 		width: 33%;
 }
